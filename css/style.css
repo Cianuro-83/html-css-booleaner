@@ -1,3 +1,9 @@
+/* per ottenere l'esercizio bonus decommentare il selettore main sottostante ed il margin-left con % delle classe svg */
+/* main{
+    margin-left: 15%;
+    margin-right: 15%;
+} */
+
 .box-intestazione{
     background-color: #4DA0FF;  
     background-image: url(../img/pattern.png); 
@@ -7,6 +13,7 @@
 .svg{
     margin-top: 30px;
     margin-left: 10px;
+    /* margin-left: 15%; */
 }
 .credit{
     font-size: x-large;
