@@ -1,7 +1,12 @@
 .box-intestazione{
     background-color: #4DA0FF;  
     background-image: url(../img/pattern.png); 
-    background-size: 10%;
+    background-size: 30%;
+    height: 100px;
+}
+.svg{
+    margin-top: 30px;
+    margin-left: 10px;
 }
 .credit{
     font-size: x-large;
@@ -15,19 +20,41 @@
 }
 
 ul{
-padding-left:1%;
+/* padding-left:1%; */
+margin-left: -30px;
 
 }
-
+table{
+    border-collapse: collapse;
+}
 thead{
     background-color:#1FA9E5 ;
     color: white;
+    text-align: left;
+ 
 }
 .tr-color{
     background-color:#B1E5F2 ;
+  
 }
 .pc{
-    background-image: url(../img/monitor.jpg)
+width: 350px;
+height: 200px;
+background-image: url(../img/monitor.jpg);
+background-repeat: no-repeat;
+color: white;
+}
+
+.code{
+    width: 350px;
+    height: 350px;
+    background-image: url(../img/graph.jpg);
     background-repeat: no-repeat;
-    text-align: justify;
+    color: white;
+}
+
+.over-text{
+    font-size: xx-large;
+    font-weight: bolder;
+    margin: 10px;
 }
