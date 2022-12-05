@@ -13,3 +13,10 @@
 .sottolineato{
     background-color:#FFFD00 ;
 }
+thead{
+    background-color:#1FA9E5 ;
+    color: white;
+}
+.tr-color{
+    background-color:#B1E5F2 ;
+}
