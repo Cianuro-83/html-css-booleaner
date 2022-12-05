@@ -20,3 +20,8 @@ thead{
 .tr-color{
     background-color:#B1E5F2 ;
 }
+.pc{
+    background-image: url(../img/monitor.jpg)
+    background-repeat: no-repeat;
+    text-align: justify;
+}
