@@ -1,0 +1,11 @@
+.box-intestazione{
+    background-color: #4DA0FF;  
+    background-image: url(../img/pattern.png); 
+    background-size: 10%;
+}
+.credit{
+    font-size: x-large;
+}
+.autore {
+    color: #6FC7EE;
+}
